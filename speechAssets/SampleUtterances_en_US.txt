@@ -1,0 +1,30 @@
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me something
+GetNewFactIntent give me a historical fact
+GetNewFactIntent tell me a historical fact
+GetNewFactIntent share a fact
+GetNewFactIntent share a historical fact
+GetNewFactIntent give me an AI fact
+GetNewFactIntent say an AI fact
+GetNewFactIntent share an artificial intelligence fact
+GetNewFactIntent tell me an artificial intelligence fact
+GetNewFactIntent say an artificial intelligence fact
+GetNewFactIntent artificial intelligence fact
+GetNewFactIntent AI fact
+GetNewYearFactIntent tell me a fact from {FACT_YEAR}
+GetNewYearFactIntent give me a fact from {FACT_YEAR}
+GetNewYearFactIntent what happened in {FACT_YEAR}
+GetNewYearFactIntent share a fact from {FACT_YEAR}
+GetNewYearFactIntent in {FACT_YEAR} what happened
+GetNewYearFactIntent what events happened in {FACT_YEAR}
+GetNewYearFactIntent what AI events happened in {FACT_YEAR}
+GetNewYearFactIntent {FACT_YEAR} AI events
+GetNewYearFactIntent AI milestones in {FACT_YEAR} 
+GetNewYearFactIntent artificial intelligence milestones in {FACT_YEAR}
+GetNewYearFactIntent {FACT_YEAR} artificial intelligence milestones
+GetNewYearFactIntent a fact from {FACT_YEAR}
+GetNewYearFactIntent facts from {FACT_YEAR}
+GetNewYearFactIntent AI developments in {FACT_YEAR}
+GetNewYearFactIntent {FACT_YEAR} artificial intelligence developments
